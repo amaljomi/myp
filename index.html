@@ -676,6 +676,25 @@
   <script src="js/jquery.animateNumber.min.js"></script>
   <script src="js/scrollax.min.js"></script>
   
-  
+  <script src="js/main.js"></script>
+  <script>
+	$("#submit-form").submit((e)=>{
+		e.preventDefault()
+		$.ajax({
+			url:"https://script.google.com/macros/s/AKfycbxfKX03oFaaP760g84dLoBBdCf2u9KMddLi5RwWE-vrh-6A8A4g7Iy32soO9rzdnl3A/exec",
+			data:$("#submit-form").serialize(),
+			method:"post",
+			success:function (response){
+				alert("Okay da ! Submit aayi !! ini poi kedann orangikko")
+				window.location.reload()
+				//window.location.href="https://google.com"
+			},
+			error:function (err){
+				alert("Illa myre send aayilla")
+
+			}
+		})
+	})
+</script>
   </body>
 </html>
