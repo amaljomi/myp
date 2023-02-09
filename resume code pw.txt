@@ -1,0 +1,27 @@
+A resume is a document that highlights your education, work experience, skills, and accomplishments to help you secure a job. It is a key tool in the job application process and serves as your personal marketing tool to
+
+ showcase your qualifications to potential employers
+
+
+<div class="row">
+    			<div class="col-md-6">
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">2021-2025</span>
+    					<h2>Bachelor of Technology in Computer Science Engineering</h2>
+    					<span class="position">Christ University</span>
+    					<p class="mt-4">Currently pursuing my BTech degree in Computer Science and Enginnering.</p>
+    				</div>
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">2019-2021</span>
+    					<h2>High School</h2>
+    					<span class="position">Placid Vidya Vihar </span>
+    					<p class="mt-4">Completed my high school education from Kerala with an aggregate percentage of 90%.</p>
+    				</div>
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">2006-2019</span>
+    					<h2>Schooling</h2>
+    					<span class="position">Placid Vidya Vihar</span>
+    					<p class="mt-4">Completed my schooling from Kerala with an aggregate percentage of 90%.</p>
+    				</div>
+    			</div>
+    		</div>
